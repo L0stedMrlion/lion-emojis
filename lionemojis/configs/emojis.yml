@@ -1,0 +1,75 @@
+info:
+  namespace: lionemojis
+font_images:
+  peepohappy:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "peepohappy"
+    scale_ratio: 9
+    y_position: 8
+  peepoclown:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "peepoclown"
+    scale_ratio: 9
+    y_position: 8
+  peepohug:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "peepohug"
+    scale_ratio: 9
+    y_position: 8
+  peepoblush:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "peepoblush"
+    scale_ratio: 9
+    y_position: 8
+  peepowtf:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "peepowtf"
+    scale_ratio: 9
+    y_position: 8
+  catblush:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "catblush"
+    scale_ratio: 9
+    y_position: 8
+  ez:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "ezf"
+    scale_ratio: 9
+    y_position: 8
+  kekw:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "kekw"
+    scale_ratio: 9
+    y_position: 8
+  pepehands:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "pepehands"
+    scale_ratio: 9
+    y_position: 8
+  monkahmm:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "monkahmm"
+    scale_ratio: 9
+    y_position: 8
+  pepelaugh:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "pepelaugh"
+    scale_ratio: 9
+    y_position: 8
+  sadge:
+    permission: lionemojis.use #U can delete this!
+    show_in_gui: true
+    path: "sadge"
+    scale_ratio: 9
+    y_position: 8
